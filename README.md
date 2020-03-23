@@ -14,7 +14,7 @@ Classe Persona
 En el directori Principal trobarem exemples de creació d'objectes a partir de les classes anteriors.
 
 - Repassa el contingut dels exemples
-- En la classe ExemplesPOO on es troba el main fixa't com s'han incorporat amn l'include les classes dels subdirectoris.  
+- En la classe ExemplesPOO on es troba el main fixa't com s'han incorporat amb l'include les classes dels subdirectoris.  
 - Afegeix a la classe Vehicle els atributs privats numeroRodes (enter) i necessariCarnet (booleà). Afegir els getter/setter per aquests nous atributs
 - En el constructor de cada subClasse de vehicle afegir la instrucció per assignar el número de rodes per defecte.
 - Modificar el mètode main en ExemplesPOO.java per a que es mostri per pantalla el número de rodes de cada un dels vehicles creats.
