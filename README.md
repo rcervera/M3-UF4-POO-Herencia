@@ -1,15 +1,16 @@
-En aquest projecte tenim 2 conjunts de classes. En el directori Exemple1
-Classe Vehicle
-   |____ Classe Cotxe
-   |____ Classe Moto
-   |____ Classe Tractor
-   |____ Classe Moto
+En aquest projecte tenim 2 conjunts de classes.
+En el directori Exemple1:
+Classe Vehicle:
+   - SubClasse Classe Cotxe
+   - SubClasse Moto
+   - SubClasse Tractor
+   - SubClasse Moto
 
-En el directori Exemple2
+En el directori Exemple2:
 
 Classe Persona
-   |____ Classe Esportista
-   |____ Classe Informàtic
+   subClasse Esportista
+   SubClasse Informàtic
  
 En el directori Principal trobarem exemples de creació d'objectes a partir de les classes anteriors.
 
