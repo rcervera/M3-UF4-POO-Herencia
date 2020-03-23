@@ -12,9 +12,9 @@ En el directori Exemple2:
     - subClasse Esportista
     - SubClasse Informàtic
  
-En el directori Principal trobarem exemples de creació d'objectes a partir de les classes anteriors.
+En el directori Principal trobarem el codi en el main amb exemples de creació d'objectes a partir de les classes anteriors.
 
-- Repassa el contingut dels exemples
+- Repassa el contingut dels exemples. Executa el programa i repassa la sortida per pantalla.
 - En la classe ExemplesPOO on es troba el main fixa't com s'han incorporat amb l'include les classes dels subdirectoris.  
 - Afegeix a la classe Vehicle els atributs privats numeroRodes (enter) i necessariCarnet (booleà). Afegir els getter/setter per aquests nous atributs
 - Completar la classe Moto amb  l'atribut cilindrada i el setter/getter
