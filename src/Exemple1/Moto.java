@@ -9,16 +9,8 @@ package Exemple1;
  *
  * @author Ramon Cervera
  */
-public class Moto {
-    int cc;
-    int anysAntiguetatCarnet;
-    String TipusCarnet;
-
-    public Moto(int cc, int anysAntiguetatCarnet) {
-        this.cc = cc;
-        this.anysAntiguetatCarnet = anysAntiguetatCarnet;
-        
-    }
+public class Moto extends Vehicle{
+    
     
     
     
